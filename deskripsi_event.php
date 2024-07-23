@@ -9,6 +9,11 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/5f7f181668.js" crossorigin="anonymous"></script>
+    <!-- Link Swiper's CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+    <!-- Link Box Icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
 </head>
 
 <body>
@@ -37,14 +42,24 @@
                         <h3 style="color: #000">workshop 1</h3>
 
                         <p>Deskripsi : <br>
-                            kali ini kami dari handcraft mau mengadakan workshop yang sangat menarik,
-                            workshop kali ini kita akan diajarkan bagaimana cara membuat cincin dengan
-                            manik-manik sesuai dengan kreasi kita sendiri lhoo, yuk buruan daftar Kuota
+                            kali ini kami dari BatiKraft mau mengadakan workshop yang sangat menarik,
+                            workshop kali ini kita akan diajarkan bagaimana cara membuat kain batik dengan
+                            motif sesuai dengan kreasi kita sendiri lhoo, yuk buruan daftar Kuota
                             terbatas.
                         </p>
                         <p>Kuota Tersedia : 50 kursi</p>
                         <h4 style="text-align: left;">Rp. 55.000</h4>
+                        <h4 style="text-align: left;">Untuk Pendaftaran bisa menghubungi nomor dibawah ini:</h4>
                     </div>
+                    <a href="https://wa.me/081228075025" target="_blank">
+                        <div class="contact-info-item padd-15">
+                            <div class="icon">
+                                <i class="fa fa-whatsapp"></i>
+                            </div>
+                            <h4>Whatsapp</h4>
+                            <p>+62 81228075025</p>
+                        </div>
+                    </a>
                 </div>
             </div>
         </div>

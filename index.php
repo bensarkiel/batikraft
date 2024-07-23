@@ -90,10 +90,10 @@ $a = mysqli_fetch_object($kontak);
         <h3 style="font-size: 25px;">Event</h3>
         <div class="container2">
 
-            <div class="card">
+        <div class="card">
                 <div class="head-card">
                     <a href="deskripsi_event.php">
-                        <img src="1.png">
+                        <img src="event/1.png">
                     </a>
                 </div>
                 <div class="body-card">
@@ -104,7 +104,7 @@ $a = mysqli_fetch_object($kontak);
             <div class="card">
                 <div class="head-card">
                     <a href="deskripsi_event2.php">
-                        <img src="2.png">
+                        <img src="event/2.png">
                     </a>
                 </div>
                 <div class="body-card">
@@ -115,22 +115,11 @@ $a = mysqli_fetch_object($kontak);
             <div class="card">
                 <div class="head-card">
                     <a href="deskripsi_event3.php">
-                        <img src="3.png">
+                        <img src="event/3.png">
                     </a>
                 </div>
                 <div class="body-card">
                     <p>workshop 3</p>
-                </div>
-            </div>
-
-            <div class="card">
-                <div class="head-card">
-                    <a href="deskripsi_event4.php">
-                        <img src="4.png">
-                    </a>
-                </div>
-                <div class="body-card">
-                    <p>workshop 4</p>
                 </div>
             </div>
         </div>
